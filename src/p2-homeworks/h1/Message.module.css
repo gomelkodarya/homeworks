@@ -1,0 +1,38 @@
+.container {
+    position: relative;
+    background-color: greenyellow;
+    width: 400px;
+    height: 150px;
+}
+
+.message {
+    position: absolute;
+    width: 300px;
+    height: 130px;
+    background-color: black;
+    bottom: 5px;
+    right: 5px;
+}
+
+.message_content {
+    color: white;
+}
+
+.message_text {
+    font-size: 12px;
+}
+
+.message_time {
+    font-size: 20px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+.container img {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    bottom: 5px;
+    left: 5px;
+}
