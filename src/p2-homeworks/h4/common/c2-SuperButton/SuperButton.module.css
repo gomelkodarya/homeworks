@@ -6,13 +6,21 @@
     font-size: 15px;
 }
 
+.default:hover {
+    background: #47D8F5;
+}
+
 .default:disabled {
     background: lightgray;
 }
 
 .red {
-    background: #E93030;
+    background: #CE0000;
     border-radius: 5px;
     width: 70px;
     height: 30px;
+}
+
+.red:hover {
+    background: #FF0000;
 }
