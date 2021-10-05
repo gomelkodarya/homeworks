@@ -1,0 +1,13 @@
+.select {
+    width: 90px;
+    height: 30px;
+    background-color: #1ABDDE;
+}
+
+.select:hover {
+    cursor: pointer;
+}
+
+.option {
+    background-color: #47D8F5;
+}

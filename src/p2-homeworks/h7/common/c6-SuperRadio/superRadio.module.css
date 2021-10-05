@@ -1,0 +1,13 @@
+.input {
+    width: 15px;
+    height: 15px;
+}
+
+.input:checked {
+    background-color: #47D8F5;
+}
+
+.input:hover {
+    cursor: pointer;
+    border: 8px solid blue;
+}
